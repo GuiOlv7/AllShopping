@@ -2,7 +2,7 @@
 
 <h2>Sobre o Projeto</h2>
 
-<a href="https://fastshop.netlify.app/">https://fastshop.netlify.app/</a><hr>
+<a href="https://allshopping.netlify.app/">https://allshopping.netlify.app/</a><hr>
 
 Site de compras simples, e semelhante ao Mercado Livre, consumindo API do mesmo, criado em React.<br>
 Nesse site é possível pesquisar/buscar por produtos, adicioná-los e/ou retirá-los do seu carrinho de compras.<hr>
