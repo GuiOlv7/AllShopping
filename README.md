@@ -1,4 +1,4 @@
-<h1>Fast Shop</h1>
+<h1>AllShopping</h1>
 
 <h2>Sobre o Projeto</h2>
 
